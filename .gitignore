@@ -1,0 +1,10 @@
+# Java
+*.class
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
