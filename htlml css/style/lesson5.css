@@ -1,0 +1,80 @@
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.title1 {
+  font-family: Tahoma;
+  font-weight: bold;
+  font-size: large;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.flipkart {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 50px;
+  margin-bottom: 10px;
+}
+.title2 {
+  color: rgb(255, 26, 26);
+  font-family: arial;
+  font-size: 25px;
+  font-style: italic;
+}
+.title3 {
+  font-family: verdana;
+  font-weight: bold;
+  margin-top: 15px;
+}
+.title4 {
+  margin-top: 5px;
+  margin-bottom: 18px;
+  color: grey;
+  font-size: 18px;
+}
+.title5 {
+  width: 260px;
+  line-height: 23px;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+.get-button {
+  color: white;
+  background-color: green;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: opacity 0.3s;
+}
+.get-button:hover {
+  opacity: 0.8;
+}
+.get-button:active {
+  background-color: darkgreen;
+  box-shadow: inset 0px 0px 5px rgba(10, 10, 10, 0.2);
+}
+.title6 {
+  margin-top: 20px;
+  font-size: 30px;
+  vertical-align: middle;
+  font-family: arial;
+  font-weight: bold;
+}
+.title6a {
+  margin-top: 15px;
+  margin-left: 60px;
+  font-size: 18px;
+  font-family: arial;
+}
+.learn-link {
+  padding-top: 22px;
+  padding-left: 130px;
+  font-size: 18px;
+  color: rgb(4, 73, 249);
+  cursor: pointer;
+}
