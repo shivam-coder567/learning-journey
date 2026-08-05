@@ -7,4 +7,5 @@
 # Windows
 Thumbs.db
 Desktop.ini
-
+# C 
+*.exe
