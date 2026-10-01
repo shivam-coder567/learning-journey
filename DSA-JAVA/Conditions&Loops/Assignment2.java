@@ -74,19 +74,35 @@ public class Assignment2 {
         // }
 
        // Take integer inputs till the user enters 0 and print the sum of all numbers (HINT: while loop)
-        Scanner sc = new Scanner(System.in);
+        
+    //    Scanner sc = new Scanner(System.in);
+    //     int sum=0;
+    //     while(true)
+    //     {
+    //     System.out.println("Enter the number :");
+    //     int n = sc.nextInt();
+    //     if(n==0){
+    //         break;
+    //     }
+    //      sum = sum+n;
+    //     }
+    //     System.out.println(sum);
+
+// Take integer inputs till the user enters 0 and print the largest number from all.
+
+        
+
         while(true)
         {
-        System.out.println("Enter the number :");
-        int n = sc.nextInt();
-        if(n==0){
-            break;
-        }
-        n=n+n;
-        System.out.println(n);
-        }
+            Scanner sc = new Scanner(System.in);
+            int n= sc.nextInt();
+            int current=n;
+            if(n==0)
+            {
+                break;
+            }
 
-
+        }
 
 
 
