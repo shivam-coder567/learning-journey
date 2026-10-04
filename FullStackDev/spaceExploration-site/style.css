@@ -1,0 +1,35 @@
+body {
+  background-image: url("images/galaxy.gif");
+  color: white;
+  background-size: cover;
+  margin-top: 50px;
+}
+.text {
+  display: block;
+  width: max-content;
+  margin: 0px auto;
+  text-align: center;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.btn {
+  margin: auto;
+  padding: 6px 12px;
+  cursor: pointer;
+  background-color: white;
+  border: none;
+  font-family: "Orbitron", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+.cta {
+  border-bottom: 4px solid white;
+}
+#logo {
+  width: 300px;
+  display: Block;
+  margin: auto;
+}

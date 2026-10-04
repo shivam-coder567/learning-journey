@@ -1,0 +1,19 @@
+body {
+  background-color: whitesmoke;
+  font-family: "rommento one", cursive;
+  color: whitesmoke;
+  margin-top: 50px;
+}
+.add {
+  background: #35654d;
+  border: 5px solid #a3bc71;
+  text-align: center;
+  width: 430px;
+  margin: auto;
+}
+.cta {
+  border: 2px solid #a3bc71;
+  background-color: #8f4737;
+  padding: 5px 9px;
+  cursor: pointer;
+}
