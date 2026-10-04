@@ -1,17 +1,16 @@
-body,
-html {
+.main {
   margin: 0;
   padding: 0;
 }
 
-img {
+.image {
   width: 30%;
   display: block;
   margin: 100px auto 20px;
   min-width: 272px;
 }
 
-input {
+.input {
   box-sizing: border-box;
   display: block;
   border-radius: 24px;
@@ -30,8 +29,8 @@ button {
   padding: 0 16px;
   font-size: 14px;
   height: 36px;
-  background-color: #f8f9fa;
-  border: 1px solid #f8f9fa;
+  background-color: #dfe1e5;
+  border: 1px solid #dfe1e5;
   cursor: pointer;
 }
 
@@ -42,4 +41,11 @@ button:first-of-type {
 
 button::hover {
   cursor: pointer;
+}
+.para {
+  display: block;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 250px;
 }
